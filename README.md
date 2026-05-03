@@ -1,0 +1,2 @@
+# conecta-seguros
+PLATAFORMA DE VENTA DE SEGUROS
